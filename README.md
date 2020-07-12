@@ -1,2 +1,2 @@
 # IBM-Data-Specialisation
-Reposity for IBM Data Specilaistion Course
+Reposity for IBM Data Specialisation Course
